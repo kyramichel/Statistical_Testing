@@ -1,18 +1,17 @@
 # Statistical_Testing
 
-Understanding users engagements to new services, products, features or actions using statistical testing.
+Can be used to understand users engagements to new services, products, features or actions. 
 
-The file A_B Testing.ipynb shows traditional A/B testing approach. 
+Two methods:
 
-A simpler and more intuitive soluition is provided in A_B Testing2.ipynb!
+1. Traditional A/B testing approach: https://github.com/kyramichel/Statistical_Testing/blob/master/A_B%20Testing.ipynb
+
+2. A simpler & more intuitive solution:
+https://github.com/kyramichel/Statistical_Testing/blob/master/A_B%20Testing%202.ipynb
 
 
 
 
 
-##If you can't open a Jupyter notebook on github, use nbviewer:
-
-1. Copy the link to a .ipynb notebook on github (For example: copy https://github.com/kyramichel/Math_Finance/blob/master/Coupon%20Bonds1.ipynb)
-2. Open https://nbviewer.jupyter.org/ then paste the link to the .ipynb notebook there.
-Easy!
-
+PS: If you can't open a Jupyter notebook on github, use nbviewer:
+https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
