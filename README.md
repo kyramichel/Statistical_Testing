@@ -13,5 +13,7 @@ https://github.com/kyramichel/Statistical_Testing/blob/master/A_B%20Testing%202.
 
 
 
-PS: If you can't open a Jupyter notebook on github, use nbviewer:
-https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
+PS: If you can't open a Jupyter notebook on github, use Jupyter nbviewer:
+https://nbviewer.jupyter.org/github/kyramichel/Statistical_Testing/tree/master/
+
+More @ https://github.com/kyramichel/SimpleWay2Open-IPYNB-files
